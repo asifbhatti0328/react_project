@@ -1,0 +1,10 @@
+.ourServies{
+    padding: 50px 0px;
+}
+
+.card_grid{
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}

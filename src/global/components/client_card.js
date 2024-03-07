@@ -11,11 +11,11 @@ const ClientCard = () => {
     </div>
     <div className='img_content'>
      <h2>
-        Mishi Doger
+     Mishi Doger
      </h2>
     
     <div className='rating'>
-    <small>3 Years Ago</small>
+    <small>3 months ago</small>
     <div className='star'>
     < IoStar color='#FFB800' className='icon' size={20} />
     < IoStar color='#FFB800' className='icon' size={20} />

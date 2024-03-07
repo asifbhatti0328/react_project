@@ -1,7 +1,7 @@
 import React from 'react'
 import ClientCard from '../../../global/components/client_card';
 
-const OurClient = (ourclient_img, ourclient_name , ourclient_ago) => {
+const OurClient = () => {
   return (
     <div className='page_width our_client'>
         <div className='ourclient_content'>

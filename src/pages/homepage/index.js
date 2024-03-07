@@ -2,6 +2,7 @@ import React from 'react'
 import './style.css'
 import HereoSection from './features/hereoSection'
 import OurServies from './features/ourServies'
+import OurClient from './features/ourClient'
 
 const Homepage = () => {
 
@@ -13,6 +14,7 @@ const Homepage = () => {
     <>
      <HereoSection /> 
      <OurServies /> 
+     <OurClient /> 
     </> 
   )
 }

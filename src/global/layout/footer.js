@@ -22,7 +22,7 @@ const Footer = () => {
               Servies
             </li>
             <li>
-              Contect Us
+              Contact Us
             </li>
             <li>
               About Us

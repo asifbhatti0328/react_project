@@ -3,6 +3,7 @@
    display: grid;
    grid-template-columns: 1fr 1fr;
    gap: 30px;
+   width: 100%;
     }
 
     .clientcard_grid{
@@ -21,7 +22,7 @@
 
     .clientcard_grid{
         display: grid !important;
-        grid-template-columns: 1fr !important;
+        grid-template-columns: 1fr 1fr !important;
        }
 }
 

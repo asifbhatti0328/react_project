@@ -1,38 +1,44 @@
-@media screen and (max-width:375px) {
+@media screen and (max-width:620px) {
     .banner_inner_section{
-   display: grid;
-   grid-template-columns: 1fr;
-   gap: 30px;
-   display: flex;
-   width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 30px;
     }
 
     .clientcard_grid{
-    display: grid !important;
-    grid-template-columns: 1fr !important;
-   }
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        width: 100%;
+    }
+}
 
-} 
+
+
 
 @media screen and (max-width:780px) {
     .banner_inner_section{
-   display: grid;
-   grid-template-columns: 1fr;
-   gap: 20px;
-   width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
     }
 
     .clientcard_grid{
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
-       }
+        width: 100%;
+    }
 }
+    
+    
+
+
 
 @media screen and (max-width:1024px) {
     .banner_inner_section{
-   display: grid;
-   grid-template-columns: 1fr;
-   gap: 20px;
-   width: 100%;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
     }
 }
+    
+    

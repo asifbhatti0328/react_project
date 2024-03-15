@@ -8,7 +8,11 @@
     .clientcard_grid{
         display: grid !important;
         grid-template-columns: 1fr !important;
-        width: 100% !important;
+    }
+
+    .card_grid{
+        display: grid!important;
+        grid-template-columns: 1fr!important;
     }
 }
 
@@ -26,6 +30,11 @@
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
     }
+
+    .card_grid{
+        display: grid!important;
+        grid-template-columns: 1fr 1fr!important;
+    }
 }
     
     
@@ -37,6 +46,16 @@
         display: grid;
         grid-template-columns: 1fr;
         gap: 20px;
+    }
+
+    .clientcard_grid{
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+    }
+
+    .card_grid{
+        display: grid!important;
+        grid-template-columns: 1fr!important;
     }
 }
     

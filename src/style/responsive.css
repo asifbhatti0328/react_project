@@ -1,20 +1,18 @@
 @media screen and (max-width:620px) {
     .banner_inner_section{
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
         gap: 30px;
     }
 
     .clientcard_grid{
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
-        width: 100% !important;
     }
 
     .card_grid{
         display: grid!important;
         grid-template-columns: 1fr 1fr!important;
-        width: 100% !important;
     }
 }
 
@@ -31,13 +29,11 @@
     .clientcard_grid{
         display: grid !important;
         grid-template-columns: 1fr 1fr !important;
-        width: 100% !important;
     }
 
     .card_grid{
         display: grid!important;
         grid-template-columns: 1fr 1fr!important;
-        width: 100% !important;
     }
 }
     
@@ -54,14 +50,12 @@
 
     .clientcard_grid{
         display: grid !important;
-        grid-template-columns: 1fr !important;
-        width: 100% !important;
+        grid-template-columns: 1fr 1fr !important;
     }
 
     .card_grid{
         display: grid!important;
-        grid-template-columns: 1fr!important;
-        width: 100% !important;
+        grid-template-columns: 1fr 1fr!important;
     }
 }
     
